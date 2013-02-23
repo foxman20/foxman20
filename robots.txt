@@ -1,0 +1,7 @@
+#
+# robots.txt for monica.marcuse.org
+#
+User-agent: *
+Disallow: /css
+Disallow: /images
+Disallow: /js

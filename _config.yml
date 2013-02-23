@@ -1,0 +1,7 @@
+#
+# _config.yml for Monica
+#
+
+exclude: [ "bin", "deploy.sh", "run.sh", "README.md", "tmp", "todo.txt" ]
+production_url: http://william.marcuse.org
+title : William's Website

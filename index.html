@@ -1,0 +1,17 @@
+---
+title: William's Website
+layout: default
+---
+<table class="table table-striped table-bordered">
+	<tbody>
+{% for other in site.posts %}
+		<tr>
+			<td><a href="{{other.url}}">{{other.title}}</a>
+				{% if other.subtitle != '' %}
+				- {{other.subtitle}}
+				{% endif %}
+			</td>
+		</tr>
+{% endfor %}
+</table>
+
