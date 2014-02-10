@@ -1,6 +1,6 @@
 ---
 title: Colors of the Rainbow
-subtitle:
+subtitle: for the poetry contest
 layout: post
 ---
 Shiny colors of silver and gold,<br/>
