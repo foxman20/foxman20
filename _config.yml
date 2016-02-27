@@ -1,7 +1,7 @@
 #
-# _config.yml for Monica
+# _config.yml for William
 #
 
-exclude: [ "bin", "deploy.sh", "run.sh", "README.md", "tmp", "todo.txt" ]
+exclude: [ "bin", "README.md", "_site", "tmp" ]
 production_url: http://william.marcuse.org
 title : William's Website
